@@ -1,18 +1,20 @@
 {
   "timeZone": "Europe/Berlin",
   "dependencies": {
-    "libraries": [{
-      "userSymbol": "LodashGS",
-      "libraryId": "1SQ0PlSMwndIuOAgtVJdjxsuXueECtY9OGejVDS37ckSVbMll73EXf2PW",
-      "version": "5"
-    }]
+    "libraries": [
+      {
+        "userSymbol": "LodashGS",
+        "libraryId": "1SQ0PlSMwndIuOAgtVJdjxsuXueECtY9OGejVDS37ckSVbMll73EXf2PW",
+        "version": "5"
+      }
+    ]
   },
   "exceptionLogging": "STACKDRIVER",
   "runtimeVersion": "V8",
   "oauthScopes": [
     "https://www.googleapis.com/auth/script.external_request"
   ],
-    "dataStudio": {
+  "dataStudio": {
     "name": "rest api connector",
     "logoUrl": "https://i.ibb.co/Xbfc1YS/5x5.png",
     "company": "Osvaldo Maria",
@@ -20,12 +22,9 @@
     "addonUrl": "https://github.com/googledatastudio/community-connectors/tree/master/npm-downloads#readme",
     "supportUrl": "osvaldom.github.io/",
     "description": "Get data from rest endpoint",
-    "sources": ["osvaldom.github.io"],
+    "sources": [ "osvaldom.github.io" ],
     "templates": {
       "default": "1twu0sHjqR5dELAPyGJcw4GS3-D0_NTrQ"
     }
   }
-}
-
-
-
+} + { "scriptId": "1973SEB7Z2JkSy37VD70jV4Dw2ncf8eQfGpDX1IvkLxEwTepQI8hotuxX" }
